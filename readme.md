@@ -1,4 +1,4 @@
-# Model Pattern Sample
+# Millenium Sample
 
 ## Стартовый шаблон. HTML, CSS, Swiper slider, ScroolReveal
 
@@ -9,4 +9,4 @@
 - Мобильная навигация
 - favicon
 
-[Смотреть демо](https://kovalchuk-alexandr.github.io/Sample/)
+[Смотреть демо](https://kovalchuk-alexandr.github.io/Millenium/)
