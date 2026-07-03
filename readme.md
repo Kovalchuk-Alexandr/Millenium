@@ -1,6 +1,6 @@
 # Millenium Sample
 
-## Стартовый шаблон. HTML, CSS, Swiper slider, ScroolReveal
+## Образец баннера MILLENIUM. HTML, CSS, Swiper slider, ScroolReveal
 
 - HTML,
 - CSS, переменные,
