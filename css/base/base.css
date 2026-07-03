@@ -48,8 +48,8 @@ body {
 .container {
     max-width: 1440px;
     margin: 0 auto;
-    padding-left: 32px;
-    padding-right: 32px;
+    padding-left: 0px;
+    padding-right: 0px;
 }
 
 .container--header {
